@@ -2,6 +2,8 @@
 
 This project implements a neural network and computational graph from scratch, featuring backpropagation with automatic differentiation and gradient calculation via the chain rule. Inspired by Andrej Karpathy's Micrograd, it validates correctness by comparing results with PyTorch.
 
+![Example Image](image.png)
+
 - **Custom Neural Network Implementation**
   - Forward and backward passes
   - Automatic differentiation
